@@ -1,2 +1,2 @@
-# Testing-World
-A sandbox. Nothing else, nothing more
+# Dynamic-Printing
+A sandbox about dynamic printing. Nothing else, nothing more
